@@ -4,3 +4,7 @@ A word frequency counter is a program that fetches the most used words in a webs
 
 In this project,I have writtern the code such that the common words such as (is,are etc)will be neglected and only the words other than those
 common words will be fetched.
+
+The operations are performed on the website- https://thenewboston.com/forum.
+
+
